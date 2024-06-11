@@ -1,0 +1,21 @@
+.navbar {
+    /* position: fixed; */
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+  }
+  
+  .navbaritem {
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+  
+  .navbaritem .nav-link {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .navbaritem .nav-link:hover {
+    color: lightgray;
+  }
+  

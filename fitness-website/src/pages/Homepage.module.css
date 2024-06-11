@@ -1,0 +1,30 @@
+.container {
+  position: relative;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+}
+
+.iconLink {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+}
+
+.iconLink:hover {
+  color: gray;
+}
+
+.img{
+  width: 50%;
+}
