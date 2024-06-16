@@ -13,6 +13,7 @@ import Foods from "./pages/FoodNutrients";
 import MyWork from "./pages/MyWork";
 import Home from "./pages/Home";
 import NavigationBar from "./components/NavBar.js";
+import { SpeedInsights } from '@vercel/speed-insights/react';
 
 function App() {
   return (
@@ -29,6 +30,7 @@ function App() {
       </Router>
       {/* <Intro />
       <ChartPage /> */}
+       <SpeedInsights />
     </div>
   );
 }
