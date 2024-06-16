@@ -96,25 +96,25 @@ export const UserData = [
     weight: 87.8,
   },
   {
-date: 3.06,
+    date: 3.06,
     weight: 87.2,
   },
   {
     date: 5.06,
     weight: 87.0,
   },
-  // {
-  //   date: 2.12,
-  //   weight: 115.1,
-  // },
-  // {
-  //   date: 3.12,
-  //   weight: 116.1,
-  // },
-  // {
-  //   date: 4.12,
-  //   weight: 116.1,
-  // },
+  {
+    date: 10.06,
+    weight: 87,
+  },
+  {
+    date: 13.06,
+    weight: 87.6,
+  },
+  {
+    date: 16.06,
+    weight: 85.6,
+  },
   // {
   //   date: 5.12,
   //   weight: 115.4,

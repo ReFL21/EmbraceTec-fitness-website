@@ -16,7 +16,6 @@ export default function Exercises(){
                 <TipsTricksTab/>
             </div>
             
-            <a>Kurvi i  belo, carsko selo!!</a>
         </div>
 
         

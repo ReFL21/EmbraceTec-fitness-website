@@ -11,9 +11,9 @@ export default function Foods() {
   return (
     <div style={{ padding: "20px" }}>
       <div style={{ marginBottom: "20px" }}>
-        <Typography variant="h4" gutterBottom>
+        {/* <Typography variant="h4" gutterBottom>
           Finalite sa za da se pechelqt, te ne se igraqt. Smisul igraqt se ama edniniq pecheli a drugiq e na vtoro mqsto!
-        </Typography>
+        </Typography> */}
       </div>
       <Grid container spacing={3}>
         {FoodData.map((item, index) => (

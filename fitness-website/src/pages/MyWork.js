@@ -122,22 +122,7 @@ export default function MyWork(){
             </Grid>
           </Grid>
       </Container>
-        {/* // <>
-        //     <div>
-        //         <a> Ae ti si mi mnogo poznata ot nqkude e,
-        //             dali en sme te porychvali, dali beee
-        //             dali ne sme se zatvarqli, dali beee
-        //             dali ne sme e grupiralii, moj sme se obyrkali,
-        //             ama maj ne sme se obyrkali
-        //             500lv, 700 s kontakta
-        //             Jore ela izvadi telefona snimkite da i pokajem na taq
 
-        //         </a>
-        //     </div>
-        //     <div>
-        //         <ChartPage  width="100px" height="100px"/>
-        //     </div>
-        // </> */}
       </Box>                
     );
 
