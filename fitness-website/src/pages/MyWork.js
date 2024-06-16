@@ -7,7 +7,7 @@ import backgroundImage from '../media/profile background.jpg';
 const user = {
   name: 'Hristo Kolev',
   bio: 'Fitness Enthusiast & Software Developper',
-  profilePicture: require('../media/guze za profilna.jpg'), 
+  profilePicture: require('../media/profilna.jpg'), 
   email: 'h.kolev@student.fontys.nl',
   socialLinks: {
     facebook: 'https://www.facebook.com/hristo.kolev.319',
